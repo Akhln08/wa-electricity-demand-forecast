@@ -1,0 +1,4 @@
+,MAE,RMSE,MAPE
+Persistence (same hour yesterday),192.28,271.32,9.38
+Seasonal naive (same hour last week),283.58,404.1,13.58
+LightGBM,139.51,199.02,6.74
